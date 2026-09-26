@@ -1,0 +1,4 @@
+*.csv
+tickets.db
+.ipynb_checkpoints/
+__pycache__/
